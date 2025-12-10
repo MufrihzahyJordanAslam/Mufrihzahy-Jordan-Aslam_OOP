@@ -34,8 +34,8 @@ print(dosen1.infoDosen())
 
 print()
 
-mhs1 = Mahasiswa("24241169")
-mhs1.nama = "Kezia Ardia Sasaki"
+mhs1 = Mahasiswa("24241167")
+mhs1.nama = "Mufrihzahy Jordan Aslam"
 mhs1.usia = 19
 mhs1.jurusan = "Pendidikan Teknologi Informasi"
 
